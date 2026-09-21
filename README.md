@@ -1,4 +1,6 @@
 # Price-Analysis-Dashboard-PowerBI
+<img width="792" height="496" alt="image" src="https://github.com/user-attachments/assets/a9c27ffc-2f9e-49cf-9fcf-6bfb7ed99478" />
+
 The objective of this project is to analyze product sales, discounts, customer  purchases, employee performance, and regional sales to help management make  better business decisions.
 # 📊 Price Analysis Dashboard | Power BI Capstone Project
 
